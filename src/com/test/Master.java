@@ -7,5 +7,6 @@ package com.test;
 public class Master{
     public static void main(String[] args) {
         System.out.println("master");
+        修改master
     }
 }
